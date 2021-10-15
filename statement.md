@@ -12,7 +12,7 @@ class Hello
     {
 // }
 
-Console.WriteLine("Hello World!");
+Console.WriteLine("Hello C#!");
 
 // { autofold
     }
